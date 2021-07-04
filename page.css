@@ -1,0 +1,54 @@
+.heatx {
+  height: 50px;
+  color: white;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+
+.pink {
+  height: 5px;
+  color: #FF00FF;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+
+.blue {
+  height: 5px;
+  color: blue;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  text-decoration: none;
+}
+
+.darkblue {
+  height: 5px;
+  color: blue;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  text-decoration: none;
+  opacity: 0.4;
+}
+
+.white {
+  height: 5px;
+  color: white;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;  
+}
+
+.gray {
+  height: 5px;
+  color: white;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;  
+  opacity: 0.1;
+}
+
+body {
+  background-color: black;
+}
+
+.i {
+  margin-left: 85%;
+  margin-top: -10px;
+}
+
+/* Sidescroll disable */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
