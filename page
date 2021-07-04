@@ -1,37 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="portal.css">
-<title>trunith///portal</title>
+<link rel="stylesheet" href="page.css">
+<title>shuyoko樹陽子</title>
 </head>
 <body>
 <!-- Start your code here -->
-<img class="ttl" src="https://cdn.discordapp.com/attachments/774526060087476234/776593564297723924/trunithmedialinks.png"/>
+<img class="1" src="https://i.ibb.co/L8d1FYZ/6-B08-B6-DC-FA6-E-4910-89-A2-37-F21-B7-CCF6-C.png"/>
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-  <p class="heatx">/// trunith™ ///</p>
-  <p class="nortx">--medias--</p>
-  <p class="pintx" alt="Other">trunith</p>
-  <p class="pintx" alt="Discord">cef#7011</p>
+  <p class="heatx">\\\ shuyoko art \\\</p>
+  <p class="nortx">--artpage--</p>
+  <p class="blutx" alt="art" href="https://sound.jp/shuyoko/">site</p>
   <br/>
-  <p class="nortx">--links--</p>
-  <a class="blutx" alt="Website" href="https://www.trunith.com" target="_blank">trunith.com</a>
+  <p class="nortx">--contax--</p>
+  <a class="blutx" alt="twitter" href="https://www.twitter.com" target="_blank">twitterツイッター</a>
   <br/>
-  <a class="blutx" alt="Discord" href="https://discord.com/RBEXJes" target="_blank">discord</a>
-  <br/>
-  <a class="blutx" alt="YouTube" href="https://www.youtube.com/c/Trunith" target="_blank">youtube.com</a>
-  <br/>
-  <a class="blutx" alt="Commissions" href="https://bit.ly/trunith" target="_blank">commissions</a>
-  <br/>
-  <p class="nortx">--subpages--</p>
-  <a class="blutx" alt="placeholderalttext" href="https://www.trunith.com/portal.html" target="_blank">placeholdertext</a>
-  <br/>
-  <br/>
-  <p class="nortx">--secret subpages--</p>
-  <a class="blutx" alt="it's obvious" href="https://www.trunith.com/amicool.html" target="_blank">am i cool?</a>
-  <br/>
-  <br/>
-  <p class="anortx">--archives--</p>
-  <a class="ablutx" alt="it's obvious" href="https://www.trunith.com/oldindex" target="_blank">og site</a>
-<!-- End your code here -->
 </body>
 </html>
